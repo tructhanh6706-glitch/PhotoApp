@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "uname": "nguyenvana",
+      "password": "123456",
+      "url-profile": "https://i.pravatar.cc/300?img=1",
+      "short-bio": "Sinh vien UEH yeu thich lap trinh."
+    },
+    {
+      "id": 2,
+      "uname": "tranthib",
+      "password": "123456",
+      "url-profile": "https://i.pravatar.cc/300?img=2",
+      "short-bio": "Sinh vien dam me cong nghe."
+    },
+    {
+      "id": 3,
+      "uname": "levanc",
+      "password": "123456",
+      "url-profile": "https://i.pravatar.cc/300?img=3",
+      "short-bio": "Yeu thich Android va Java."
+    },
+    {
+      "id": 4,
+      "uname": "phamthid",
+      "password": "123456",
+      "url-profile": "https://i.pravatar.cc/300?img=4",
+      "short-bio": "Quan tam den phat trien ung dung mobile."
+    }
+  ]
+}
